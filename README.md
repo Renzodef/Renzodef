@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Vitoronzo De Francesco, but everybody call me Renzo.
+I work as Junior Developer (in the Graduate Development Program) for DxC technology in Bari, south Italy.
+I'm currently finishing my Master's Degree in Computer Science Engineering and my Diploma in Piano, always in Bari.
+I'm particularly interested in Web Development and Artificial Intelligence/Machine Learning.
