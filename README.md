@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 My name is Vitoronzo De Francesco, but everybody call me Renzo. <br>
 I work as Junior Developer (in the Graduate Development Program) for DxC Technology in Bari, south Italy. <br>
-I'm currently finishing my Master's Degree in Computer Science Engineering and my Diploma in Piano, always in Bari. <br>
+I'm currently finishing my Master's Degree in Computer Science Engineering and my Diploma in Piano.<br>
 I'm particularly interested in Web Development and Artificial Intelligence/Machine Learning.
